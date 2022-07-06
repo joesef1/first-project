@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono &display=swap');
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    overflow: hidden;
+    height: 100vh;
+    color: #fff;
+}
